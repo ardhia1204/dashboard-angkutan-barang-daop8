@@ -302,7 +302,7 @@ else:
         st.markdown(f"""
         <div class="banner-container" style="background-image: linear-gradient(to right, rgba(6,43,102,1) 40%, rgba(6,43,102,0) 80%), url('data:image/png;base64,{bg_base64}');">
             <div class="banner-title">HALO, {nama_user}</div>
-            <div class="banner-subtitle">Selamat datang di Dashboard Volume Angkutan Barang UPT Terminal Babat KAI DAOP 8 Surabaya</div>
+            <div class="banner-subtitle">Selamat datang di Dashboard Volume Angkutan Barang KAI DAOP 8 Surabaya</div>
         </div>
         """, unsafe_allow_html=True)
     else:
